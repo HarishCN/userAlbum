@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Albums</string>
+    <string name="profile">Users</string>
+    <string name="my_albums">My Albums</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="photo">Photo</string>
+    <string name="photo_details">Photo Details</string>
+    <string name="album_photo">Album Photo</string>
+</resources>
